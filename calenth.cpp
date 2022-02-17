@@ -12,5 +12,6 @@ int main()
     phrase[0] = 'm'; //change the things in given strings.
     cout << phrase <<endl;
     cout << phrase.find("very") << endl; //find starting indexing of the given string.
-    cout << phrase.substr(10 ,4);
+    cout << phrase.substr(10 ,4); //so this is basically tels how many characters we want to print anfter findind string here I like 4 char to print.
+    
 }
