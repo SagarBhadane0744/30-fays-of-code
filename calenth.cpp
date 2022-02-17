@@ -9,6 +9,6 @@ int main()
     cout << phrase.length() << endl; 
     cout << phrase[2] << endl;
     cout << phrase[51] << endl;
-    phrase[0] = 'm';
+    phrase[0] = 'm'; //change the things in given strings.
     cout << phrase;
 }
