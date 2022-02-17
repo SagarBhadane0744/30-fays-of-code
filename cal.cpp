@@ -12,7 +12,7 @@ int main(){
 
     cout << " Enter an Another number: ";
     cin >> num2;
-    sum = num1+num2;
-    cout <<sum;
+
+    cout << num1+num2;
 
 }
