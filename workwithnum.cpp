@@ -21,7 +21,7 @@ int main(){
 
         cout << wnum << endl;
 
-        cout << num<< endl;
+        cout << num << endl;
 
         cout << num1;
 }
