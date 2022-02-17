@@ -10,5 +10,6 @@ int main()
     cout << phrase[2] << endl;
     cout << phrase[51] << endl;
     phrase[0] = 'm'; //change the things in given strings.
-    cout << phrase;
+    cout << phrase <<endl;
+    cout << phrase.find("very"); //find starting indexing of the given string.
 }
