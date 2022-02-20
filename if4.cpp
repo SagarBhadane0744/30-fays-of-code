@@ -14,7 +14,6 @@ int main() {
   // outer if condition
   if (num != 0) {
         
-    // inner if condition
     if (num > 0) {
       cout << "The number is positive." << endl;
     }
