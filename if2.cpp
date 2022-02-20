@@ -1,5 +1,5 @@
 // Program to check whether an integer is positive or negative
-// This program considers 0 as a positive number
+
 
 #include <iostream>
 using namespace std;
