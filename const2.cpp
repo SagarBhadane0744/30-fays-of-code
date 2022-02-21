@@ -39,4 +39,4 @@ int main() {
   cout << "Area of Wall 2: " << wall2.calculateArea();
 
   return 0;
-}
+} 
