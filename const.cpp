@@ -3,7 +3,6 @@
 #include <iostream>
 using namespace std;
 
-// declare a class
 class  Wall {
   private:
     double length;
