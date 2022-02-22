@@ -4,4 +4,5 @@
 ### I'm a Student, Developer, and Teacher!!
 
 ## - 🔭 🌱  👯 🥅 ⚡
-### Write daily codes
+##### Write daily codes at least one.
+##### This wll create a big differences in results.
