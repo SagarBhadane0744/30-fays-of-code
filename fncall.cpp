@@ -5,7 +5,6 @@ int DemoConsoleOutput();
 //this is the simple declaration of the function
 int main(){
     DemoConsoleOutput();
-    return 0;
 }
 int DemoConsoleoutput(){
     cout << "This is a Simple string literal" << endl;
@@ -13,5 +12,4 @@ int DemoConsoleoutput(){
     cout << "Perform Simple Division 10 / 5 = " << 10 / 5 << endl;
     cout << " pi is 32 / 7 = " << 22.0 / 7 << endl;
 
-    return 0;
 }
