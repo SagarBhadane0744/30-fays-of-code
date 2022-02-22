@@ -6,7 +6,7 @@ int DemoConsoleOutput();
 int main(){
     DemoConsoleOutput();
 }
-int DemoConsoleoutput(){
+int DemoConsoleOutput(){
     cout << "This is a Simple string literal" << endl;
     cout << "Writing Number : " << 5 << endl;
     cout << "Perform Simple Division 10 / 5 = " << 10 / 5 << endl;
