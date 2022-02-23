@@ -9,6 +9,11 @@ int main(){
     
     LuckyNames[0] = 15; // asign a different values.
 
-    cout << LuckyNames[0];
+    LuckyNames[10] = 100; // adding alues is given array.
 
+    cout << LuckyNames[0] << endl;
+
+    cout << LuckyNames[10] << endl;
+
+    cout << LuckyNames;
 }
