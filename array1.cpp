@@ -14,6 +14,4 @@ int main(){
     cout << LuckyNames[0] << endl;
 
     cout << LuckyNames[10] << endl;
-
-    cout << LuckyNames;
 }
