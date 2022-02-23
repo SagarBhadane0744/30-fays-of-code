@@ -2,19 +2,12 @@
 
 using namespace std;
 
-void sayHi(){
-    string user;
-    int age;
-    cout << "Enter Your Name : ";
-    cin >> user;
+void sayHi(string user, int age){
 
-    cout << "enter your age";
-    cin >> age;
-
-    cout << " Your name is " << user << " you are " << age << " Years old";
+    cout << " Your name is " << user << " you are " << age << " Years old" << endl;
 }
 
 int main(){
 
-    sayHi();
+    sayHi("mike" , 35);
 }
