@@ -10,4 +10,8 @@ void sayHi(string user, int age){
 int main(){
 
     sayHi("mike" , 35);
+    sayHi("sam" , 21);
+    sayHi("nat" , 12);
+    sayHi("nathon" , 42);
+    sayHi("tom" , 25);
 }
