@@ -5,4 +5,4 @@
 
 ## - 🔭 🌱  👯 🥅 ⚡
 ##### Write daily codes at least one.
-##### This wll create a big differences in results.
+##### This will create a big differences in results.
