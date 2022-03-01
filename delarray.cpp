@@ -20,6 +20,7 @@ int main() {
     Student* ptr = new Student();
 
     // call getAge() function
+    
     ptr->getAge();
 
     // ptr memory is released
