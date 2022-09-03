@@ -28,14 +28,17 @@ using namespace std;
     cout<<a;
 }*/
 int main(){
+
     int a = 9;
+
     if(a==9){
         cout<<"NINE ";
     }
+    
     if(a>0){
-        cout<<" is Positive";
+        cout<<" is Positive ";
     }
     else{
-        cout<<" is Negative";
+        cout<<" is Negative ";
     }
 }
