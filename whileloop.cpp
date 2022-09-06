@@ -24,12 +24,18 @@ int main(){
 
     int i = 1;
     int sum = 0;
-
+    cout<<"\n";
+    cout<<"\n";
     while(i<=n){
 
         sum = sum + i;
         i = i + 1;
+        cout<<i;
+        cout<<"  ";
 
     }
-    cout<<"The value of sum is "<<sum<<endl;
+    cout<<"\n";
+    cout<<"\n";
+    cout<<"The value of sum is:  "<<sum<<endl;
+    cout<<"\n";
 }
