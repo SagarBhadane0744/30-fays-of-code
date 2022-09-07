@@ -15,11 +15,11 @@ int main(){
 
         while(j<=n){
 
-            cout<<j;
+            cout<<j<<" ";
             j++;
         }
 
         cout<<endl;
-        j++;
+        i++;
     }
 }
