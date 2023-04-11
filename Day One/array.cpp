@@ -14,7 +14,7 @@ int main() {
 
 
     cout << "\nThe numbers are: ";
-
+    //this is the nice file
     //  Printing array elements
     // using traditional for loop
     for (int i = 0; i < 5; ++i) {
